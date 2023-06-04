@@ -2,7 +2,7 @@
 
 The Grid world as described in the Task is shown below:
 
-![grid-world](https://github.com/hskalin/swarm-gridworld/blob/main/grid.png)
+![grid](https://github.com/zaid-24/The-RL-Agent/assets/93991971/7f432e6b-c8c8-48d6-bc93-3da2ebe4c9a1)
 
 You are required to write a program to move the agent to the goal. To use the gridworld, import `gridworld.py` (your script should be in the same directory as `gridworld.py`)
 
